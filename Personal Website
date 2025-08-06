@@ -1,0 +1,44 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+    
+    <title>Tems A</title>
+    <meta charset="utf-8" />
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	  <!-- link the webpage's stylesheet -->
+	  <link rel="stylesheet" href="/style.css" />
+
+	  <!-- link the webpage's JavaScript file -->
+	  <script src="/script.js" defer></script>
+
+  </head>
+  
+  <body>
+    <header>
+      <h1>Tems Homepage!!</h1>
+      <img src="assets/cogs.jpg" alt="An image of a gear wheel to represent the engineering field in STEM"/>
+       </header>
+    
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li> 
+    </nav>
+
+    <main>
+      <p>
+        Hi my name is Temi A but people call me Tem Tem or Tems.  
+      </p>
+
+      
+      
+      <h2>About Me</h2>
+      <p> I'm a Senior in Highschool in a STEM program as I plan on pursuing a career in engineering. I'm currently participating in the Pathways program as I'm interested in learning how to code. I love building, designing, and helping others. Whether it’s through STEM, arts and crafts, or solving problems, I’m always looking for  new ideas and making them real.</p>
+
+    <h3 class="fun">Welcome to my website that's all about me yapping about STEM activites and the hobbies I do!!!! :) </h3> 
+      
+    </main>
+  </body>
+</html>
