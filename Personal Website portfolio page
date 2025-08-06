@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <title>YOUR NAME HERE</title>
+    <meta charset="utf-8" />
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	  <!-- link the webpage's stylesheet -->
+	  <link rel="stylesheet" href="/style.css" />
+
+	  <!-- link the webpage's JavaScript file -->
+	  <script src="/script.js" defer></script>
+
+  </head>
+  
+  <body>
+    
+    <header>
+      <h1>This is my portfolio page!</h1>
+      <img id="crochet" src="assets/crochet--.png">
+       </header>
+
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li> 
+      </ul>
+    </nav>
+
+    <main>
+      <p  class="Maintext"> First I like crocheting thing like blankets, clothes, and amigurumi (fancy  term for crochet plushies.) </p>
+      
+      <img id="crochet"src="assets/skirt.jpg" alt="An image of a crochet skirt I'm still working on."/>
+      
+      <img id="crochet"src="assets/pinkwhite.jpg" alt="Pink and white crochet beanie"/>
+      
+      <img id="crochet"src="assets/crocheted.jpg" alt="An image of cute plushies, and bag I crocheted."/>
+      <p class="Subtext">Pictures of different things I crocheted </p>
+      <p  class="Maintext"> Next I like painting and drawing different things like flowers, characters, etc.</p>
+      <img id="Painting"src="assets/sunflower.jpg" alt="An image of a flower painting I did with pointillism technique."/>
+      <p class="Subtext">An image of a flower painting I did with pointillism technique.</p>
+      <img id="Painting"src="assets/fruits.jpg" alt="An image of a painting of fruits I did."/>
+      <p class="Subtext">An image of a painting of fruits I did.</p>
+      <img id="Painting"src="assets/abstract.jpg" alt="An image of an abstract art I painted that portraited emotions."/>
+      <p class="Subtext">An image of an abstract art I painted that portraited emotions.</p>
+
+      <p class="Maintext"> Relating to STEM I've done different project like using Cad models like Revit city, Fusion 360, Sketch Up, Onshape,etc. These models were using for different things like calculating forces, building houses with floorplans, creating models, etc. </p>
+      
+      <img id="Revit"src="assets/image.png" alt="An image of a two story house I built using Revit."/>
+      
+      <img id="Revit"src="assets/HOME.png" alt="An image of a two story house I built using Revit."/>
+      
+      <ul>
+        <li><a href="https://www.canva.com/design/DAGuqXzn_f4/4x4-cdZw1-bF4-rKFCa91Q/view?utm_content=DAGuqXzn_f4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hddc9367987">Visit my the slides to see more!</a></li>
+ </ul>
+      <p class="Subtext"> Images of a two story house I built using Revit.</p>
+      
+
+      
+      <img id="Sketchup"src="assets/vacation.png" alt="An image of vacation home I built with Sketch Up."/>
+        <img id="Sketchup"src="assets/vacation home.png" alt="An image of vacation home I built with Sketch Up."/>
+      <p class="Subtext">An image of vacation home I built with Sketch Up.</p>
+
+      <img id="Onshape"src="assets/forces.png" alt="An image of a solved force with onshape."width="300" height="390"/>
+      <p class="Subtext">An image of a solved force with onshape.</p>
+      
+      <img id="Onshapept2"src="assets/Screenshot 2025-04-24 203453.png" alt="Images of models made with onshape."/>
+      <img id="Onshapept2"src="assets/Screenshot 2025-04-24 203609.png" alt="Images of models made with onshape."/>
+
+      <p class="Subtext">Images of models made with onshape.</p>
+
+      
+    </main>
+    
+    
+    
+  </body>
+</html>
